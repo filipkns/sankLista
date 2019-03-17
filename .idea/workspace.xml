@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba92b6d4-680e-47eb-9612-61fdfacf17f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/A_bla.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanklista.php" beforeDir="false" afterPath="$PROJECT_DIR$/sanklista.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staro/changelista.php" beforeDir="false" afterPath="$PROJECT_DIR$/changelista.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staro/css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/staro/delete.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/staro/function.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/staro/insertintolista.php" beforeDir="false" afterPath="$PROJECT_DIR$/insertintolista.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staro/lastindex.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/staro/rootuser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/staro/user.php" beforeDir="false" />
-    </list>
+    <list default="true" id="ba92b6d4-680e-47eb-9612-61fdfacf17f5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,12 +172,12 @@
       <updated>1552760956830</updated>
       <workItem from="1552760994132" duration="14151000" />
       <workItem from="1552831066673" duration="8760000" />
-      <workItem from="1552847773877" duration="1039000" />
+      <workItem from="1552847773877" duration="1340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23950000" />
+    <option name="totallyTimeSpent" value="24251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -212,7 +195,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2369281" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.624183" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
